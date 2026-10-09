@@ -1,0 +1,11 @@
+
+media: media
+
+content:
+  - name: website
+    label: Website HTML
+    type: file
+    path: index.html
+    format: code
+    options:
+      language: html
